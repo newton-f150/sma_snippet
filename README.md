@@ -155,13 +155,13 @@ Some possible enhancements include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/newton-f150/sma_snippet.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd <repository-name>
+cd sma_snippet
 ```
 
 Run the application:
@@ -172,6 +172,4 @@ cargo run
 
 ---
 
-## License
 
-This project is open-source and available under the MIT License.
